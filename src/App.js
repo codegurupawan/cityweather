@@ -1,6 +1,5 @@
 import './App.css';
 import Temp from './components/Temp';
-// import image from './backgroundimage.jpg'
 
 
 function App() {
