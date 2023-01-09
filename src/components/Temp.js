@@ -41,7 +41,7 @@ export default function Temp() {
     return (
         <div>
             <div className="container text-center my-2">
-                <h1>Check Weather of Your City</h1>
+                <h1>Weather of Your City</h1>
 
                 <input type="text" className="from-control" value={city} onChange={(e) => {
                     setCity(e.target.value);
