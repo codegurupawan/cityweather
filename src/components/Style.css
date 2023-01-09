@@ -1,0 +1,11 @@
+.wtherbgimg {
+    /* background: url("https://thumbs.dreamstime.com/z/clear-cloudy-sky-2269329.jpg"); */
+    background-color: transparent;
+}
+
+
+.btnsize {
+    text-emphasis-color: white;
+    size: 9px;
+    border-radius: 0%;
+}
